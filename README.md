@@ -12,3 +12,6 @@
 </ul>
 
 <h2>Endpoints</h2>
+<ul>
+  <li>/pokemon/v1/{Nome do pokemon}</li>
+</ul>
