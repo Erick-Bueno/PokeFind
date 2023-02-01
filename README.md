@@ -17,5 +17,4 @@
 </ul>
 
  <p>Response:</p>
-  <span class="pl-kos">[</span>
- <pre> </pre>
+ <pre><span class="pl-kos">[</span> </pre>
