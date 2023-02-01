@@ -4,10 +4,11 @@
 
 </p> na versão atual é possivel visualizar as seguintes informações:</p>
 <ul>
-  <li>Altura</li>
-  <li>Peso</li>
-  <li>Categoria</li>
-  <li>Habilidade</li>
-  <li>Tipo</li>
-  
- </ul>
+  <li>ALTURA</li>
+  <li>PESO</li>
+  <li>CATEGORIA</li>
+  <li>HABILIDADE</li>
+  <li>TIPO</li>
+</ul>
+
+<h2>Endpoints</h2>
