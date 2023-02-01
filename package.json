@@ -1,0 +1,24 @@
+{
+  "name": "pokefind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "engines": {
+    "node": "^14"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "puppeteer": "^16.2.0",
+    "chrome-aws-lambda": "^6",
+    "puppeteer-core": "^6"
+  }
+}
