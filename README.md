@@ -11,9 +11,9 @@
   <li>TIPO</li>
 </ul>
 
-<p></p><h2>Endpoints e Responses</h2>
+<h2>Endpoints e Responses</h2>
 <ul>
   <li>/pokemon/v1/{Nome do pokemon}</li>
 </ul>
 
-<p> Response>
+<p></p><p></p><p>Response</p>
