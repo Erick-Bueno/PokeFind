@@ -31,4 +31,18 @@
  
  <h2>Exemplo</h2>
  <p>https://pokefind-erick-bueno.vercel.app/pokemon/v1/charmander<p>
+  <pre>
+  [
+   {
+    "altura": "0.6 m",
+    "peso":"8.5 kg",
+    "categoria":"Lizard",
+    "habilidade":"Blaze",
+    "tipo":[
+    "Fire"
+    ]
+   
+  }
+]
+  </pre>
  
