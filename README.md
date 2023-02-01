@@ -2,7 +2,7 @@
 
 </p> O PokeFind Pemite a busca de informações de varios pokemons, todos os dados são extraidos da <a href="https://www.pokemon.com/br/pokedex/">Pokedex</a> utilizando webscrapping.
 
-</p> na versão atual é possivel visualizar as seguintes informações:</p>
+</p> Na versão atual é possivel visualizar as seguintes informações do poke:</p>
 <ul>
   <li>ALTURA</li>
   <li>PESO</li>
@@ -16,4 +16,6 @@
   <li>/pokemon/v1/{Nome do pokemon}</li>
 </ul>
 
-<p>  </p>   <p>  </p>   <p>Response</p>
+ <p>Response:</p>
+ 
+ <pre> </pre>
