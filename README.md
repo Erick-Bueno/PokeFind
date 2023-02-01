@@ -18,8 +18,12 @@
 
  <p>Response:</p>
  <pre>
- <span class="pl-kos">[</span> 
- <span class="pl-kos">{</span>
- 
+[
+  {
+    partOfSpeech: string,
+    meanings: string[],
+    etymology: string,
+  }
+]
  </pre>
  
