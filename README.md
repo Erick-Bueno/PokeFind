@@ -20,9 +20,11 @@
  <pre>
 [
   {
-    partOfSpeech: string,
-    meanings: string[],
-    etymology: string,
+    altura: string,
+    peso: string,
+    categoria: string,
+    habilidade: string,
+    tipos: string[]
   }
 ]
  </pre>
