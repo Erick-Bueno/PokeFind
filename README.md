@@ -30,7 +30,7 @@
  </pre>
  
  <h2>Exemplo</h2>
- <phttps://poke-find.vercel.app/pokemon/v1/charmander<p>
+ <p>https://poke-find.vercel.app/pokemon/v1/charmander<p>
   <pre>
   [
    {
